@@ -1,0 +1,25 @@
+﻿body {
+     font-family: sans-serif;
+}
+
+input [type=submit] {
+    width: auto;
+}
+
+input, textarea {
+    font-size: 18px;
+    width: 200px;
+}
+
+label {
+    font-size: 16px;
+}
+
+#form {
+    background-color: slategrey;
+}
+
+#form input[type=submit] {
+    background-color: green;
+    color: white;
+}
