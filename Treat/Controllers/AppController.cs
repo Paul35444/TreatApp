@@ -6,6 +6,7 @@ namespace Treat.Controllers
     {
         public IActionResult Index()
         {
+
             return View();
         }
     }
